@@ -1,0 +1,51 @@
+{
+  "num": "10",
+  "area": "Operations",
+  "product": "Inventory Optimization",
+  "title": "Target Stock Balancer",
+  "company": "Target Corporation",
+  "why": "In 2022 Target was left with too much home and apparel stock while some high-demand items still ran short. This tool forecasts every SKU, sets safety stock and reorder points, and flags what to reorder and what to mark down.",
+  "problem": "A retailer simultaneously experiences stockouts for high-demand products and excess inventory for slow-moving products. Develop an AI inventory intelligence system that analyzes historical demand, seasonality, sales, inventory and supplier lead times to recommend inventory decisions.",
+  "data_note": "60 SKUs across 6 departments in one distribution region, 104 weeks of sales, current stock and supplier lead times (sample data).",
+  "steps": [
+    {
+      "step": "Collect sales and stock data",
+      "detail": "Weekly sales, seasonality, price, stock on hand and on order, lead times"
+    },
+    {
+      "step": "ABC-XYZ classification",
+      "detail": "Revenue share (ABC) and demand variability (XYZ)"
+    },
+    {
+      "step": "Forecast demand",
+      "detail": "Holt-Winters with 52-week seasonality, 12 weeks ahead"
+    },
+    {
+      "step": "Safety stock",
+      "detail": "Service-level z × forecast error × √lead time"
+    },
+    {
+      "step": "Reorder point and quantity",
+      "detail": "Lead-time demand + safety stock; EOQ for order size"
+    },
+    {
+      "step": "Flag slow and dead stock",
+      "detail": "Weeks of supply above the excess limit"
+    },
+    {
+      "step": "Recommend actions",
+      "detail": "Reorder, expedite, transfer or mark down"
+    },
+    {
+      "step": "Explain to buyers",
+      "detail": "AI analyst writes the buyer notes"
+    }
+  ],
+  "questions": [
+    "Which items will stock out first?",
+    "How much cash is tied up in excess stock?",
+    "What markdown should we take on slow movers?",
+    "Explain ABC-XYZ for our buyers"
+  ],
+  "author": "K Bhargav Raju"
+}

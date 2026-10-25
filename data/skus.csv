@@ -1,0 +1,61 @@
+sku,item,department,price,unit_cost,lead_time_weeks,on_hand,on_order
+HOM-1000,Throw pillow,Home,96.27,49.21,9,86,36
+HOM-1001,Area rug 5x7,Home,94.64,45.25,7,26,80
+HOM-1002,Ceramic vase,Home,77.58,44.47,3,98,0
+HOM-1003,Wall mirror,Home,75.11,36.03,3,79,0
+HOM-1004,Bath towel set,Home,57.42,36.38,7,2787,537
+HOM-1005,Table lamp,Home,35.12,16.9,7,505,0
+HOM-1006,Storage bin,Home,44.74,28.01,5,1253,0
+HOM-1007,Bedding set,Home,43.68,22.9,6,231,88
+HOM-1008,Candle 3-wick,Home,96.1,58.2,10,854,290
+HOM-1009,Patio chair,Home,28.58,17.57,9,983,104
+APP-1010,Women's denim,Apparel,79.14,37.25,9,81,0
+APP-1011,Men's tee 3pk,Apparel,39.98,24.69,9,117,57
+APP-1012,Kids hoodie,Apparel,77.11,47.22,5,407,0
+APP-1013,Leggings,Apparel,47.86,27.0,6,57,0
+APP-1014,Rain jacket,Apparel,15.01,9.59,9,3415,0
+APP-1015,Swim shorts,Apparel,32.09,18.46,2,125,68
+APP-1016,Sneakers,Apparel,44.16,27.37,2,523,0
+APP-1017,Socks 6pk,Apparel,44.55,22.54,7,1585,0
+APP-1018,Winter coat,Apparel,42.41,26.03,4,206,131
+APP-1019,Dress,Apparel,20.98,11.42,7,1320,343
+ELE-1020,Wireless earbuds,Electronics,55.45,26.14,5,285,0
+ELE-1021,Smart speaker,Electronics,19.43,11.43,4,5034,1071
+ELE-1022,Phone charger,Electronics,91.98,59.66,3,173,0
+ELE-1023,HDMI cable,Electronics,114.24,61.58,5,227,0
+ELE-1024,Tablet case,Electronics,127.76,59.88,4,84,15
+ELE-1025,Gaming headset,Electronics,41.06,20.2,6,1278,0
+ELE-1026,Smart bulb 4pk,Electronics,23.73,11.44,8,4883,452
+ELE-1027,Power bank,Electronics,32.71,15.45,8,453,0
+ELE-1028,Webcam,Electronics,23.99,14.02,9,1493,0
+ELE-1029,TV wall mount,Electronics,118.34,71.99,9,203,64
+GRO-1030,Coffee pods 24ct,Grocery,3.08,1.89,5,13417,0
+GRO-1031,Protein bars,Grocery,3.88,1.82,4,7449,0
+GRO-1032,Sparkling water 12pk,Grocery,12.02,7.01,9,580,0
+GRO-1033,Cereal family size,Grocery,12.58,7.98,7,6918,1277
+GRO-1034,Snack mix,Grocery,9.44,4.96,2,12496,1534
+GRO-1035,Pasta sauce,Grocery,4.62,2.09,9,896,0
+GRO-1036,Olive oil,Grocery,3.85,2.35,2,7386,0
+GRO-1037,Granola,Grocery,8.74,5.53,8,2127,193
+GRO-1038,Frozen pizza,Grocery,11.64,7.03,6,2754,340
+GRO-1039,Trail mix,Grocery,8.52,4.39,2,785,493
+TOY-1040,Building bricks set,Toys,47.55,27.47,7,354,81
+TOY-1041,Plush bear,Toys,28.59,13.36,3,3448,0
+TOY-1042,Board game,Toys,41.34,23.74,7,944,119
+TOY-1043,RC car,Toys,70.84,32.61,7,33,0
+TOY-1044,Doll house,Toys,37.78,19.6,8,416,0
+TOY-1045,Puzzle 1000pc,Toys,26.53,13.27,8,5438,622
+TOY-1046,Art kit,Toys,32.84,19.02,10,4265,0
+TOY-1047,Action figure,Toys,74.8,41.9,10,556,477
+TOY-1048,Card game,Toys,52.76,31.62,8,235,265
+TOY-1049,Ride-on scooter,Toys,17.36,10.27,5,828,0
+BEA-1050,Moisturizer,Beauty,44.82,27.72,10,673,0
+BEA-1051,Shampoo,Beauty,37.37,21.07,2,512,85
+BEA-1052,Lip balm 3pk,Beauty,32.43,14.59,4,705,185
+BEA-1053,Sunscreen SPF50,Beauty,23.79,14.7,2,118,0
+BEA-1054,Face mask 5pk,Beauty,40.2,21.89,7,270,0
+BEA-1055,Body wash,Beauty,33.6,20.43,5,393,114
+BEA-1056,Nail polish,Beauty,24.12,14.2,5,172,0
+BEA-1057,Hair dryer,Beauty,59.97,32.49,5,72,15
+BEA-1058,Perfume,Beauty,34.24,16.25,2,125,0
+BEA-1059,Razor kit,Beauty,56.5,32.7,10,254,0

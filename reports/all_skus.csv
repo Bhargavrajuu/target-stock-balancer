@@ -1,0 +1,61 @@
+sku,item,class,on_hand,weekly_forecast,weeks_of_supply,safety_stock,reorder_point,eoq,status,action,department,lead_time_weeks
+TOY-1047,Action figure,AZ,556,218.0,2.6,304,2570,736,Stockout now,"Expedite 2,273 units, transfer from nearby DCs",Toys,10
+HOM-1008,Candle 3-wick,AY,854,106.0,8.1,259,1264,435,Reorder,Order 555 units now,Home,10
+HOM-1004,Bath towel set,AY,2787,175.2,15.9,225,1460,708,Healthy,No action,Home,7
+APP-1014,Rain jacket,AY,3415,417.7,8.2,386,3816,2128,Reorder,"Order 2,529 units now",Apparel,9
+ELE-1026,Smart bulb 4pk,AY,4883,310.1,15.7,558,3195,1679,Healthy,No action,Electronics,8
+TOY-1048,Card game,AZ,235,151.4,1.6,74,1385,706,Stockout now,"Expedite 1,590 units, transfer from nearby DCs",Toys,8
+ELE-1027,Power bank,AY,453,172.6,2.6,152,1575,1078,Stockout now,"Expedite 2,200 units, transfer from nearby DCs",Electronics,8
+GRO-1032,Sparkling water 12pk,AX,580,462.5,1.3,226,4343,2619,Stockout now,"Expedite 6,382 units, transfer from nearby DCs",Grocery,9
+ELE-1020,Wireless earbuds,AY,285,82.2,3.5,167,603,572,Reorder,Order 890 units now,Electronics,5
+BEA-1050,Moisturizer,AY,673,66.2,10.2,206,875,499,Reorder,Order 701 units now,Beauty,10
+APP-1017,Socks 6pk,AY,1585,101.3,15.6,73,697,684,Healthy,No action,Apparel,7
+TOY-1044,Doll house,AZ,416,188.3,2.2,150,1705,1000,Stockout now,"Expedite 2,289 units, transfer from nearby DCs",Toys,8
+APP-1012,Kids hoodie,AY,407,46.5,8.7,80,276,320,Healthy,No action,Apparel,5
+ELE-1022,Phone charger,AY,173,60.7,2.8,39,246,325,Reorder,Order 398 units now,Electronics,3
+HOM-1006,Storage bin,AX,1253,100.7,12.4,111,595,611,Healthy,No action,Home,5
+GRO-1030,Coffee pods 24ct,AX,13417,621.1,21.6,1954,5005,5846,Excess,"Mark down 20%, pause orders, move to outlet stores",Grocery,5
+GRO-1033,Cereal family size,AX,6918,325.9,21.2,245,2652,2061,Excess,"Mark down 20%, pause orders, move to outlet stores",Grocery,7
+BEA-1056,Nail polish,AY,172,81.7,2.1,247,557,774,Reorder,"Order 1,159 units now",Beauty,5
+TOY-1045,Puzzle 1000pc,AZ,5438,171.8,31.7,206,1895,1160,Excess,"Mark down 30%, pause orders, move to outlet stores",Toys,8
+APP-1019,Dress,AY,1320,150.2,8.8,280,1192,1170,Healthy,No action,Apparel,7
+GRO-1039,Trail mix,AX,785,328.0,2.4,146,865,2788,Healthy,No action,Grocery,2
+ELE-1025,Gaming headset,AY,1278,97.3,13.1,59,714,708,Healthy,No action,Electronics,6
+GRO-1034,Snack mix,AX,12496,458.4,27.3,348,1087,3100,Excess,"Mark down 20%, pause orders, move to outlet stores",Grocery,2
+TOY-1041,Plush bear,AZ,3448,72.5,47.6,186,514,751,Excess,"Mark down 40%, pause orders, move to outlet stores",Toys,3
+BEA-1051,Shampoo,AY,512,81.6,6.3,90,209,635,Healthy,No action,Beauty,2
+ELE-1021,Smart speaker,AY,5034,123.5,40.8,347,1106,1060,Excess,"Mark down 40%, pause orders, move to outlet stores",Electronics,4
+BEA-1055,Body wash,AY,393,72.0,5.5,94,423,605,Healthy,No action,Beauty,5
+HOM-1001,Area rug 5x7,AX,26,25.4,1.0,34,213,242,Stockout now,"Expedite 348 units, transfer from nearby DCs",Home,7
+TOY-1046,Art kit,AZ,4265,68.2,62.6,112,903,611,Excess,"Mark down 40%, pause orders, move to outlet stores",Toys,10
+APP-1011,Men's tee 3pk,BY,117,55.3,2.1,159,607,483,Stockout now,"Expedite 916 units, transfer from nearby DCs",Apparel,9
+GRO-1031,Protein bars,BY,7449,691.6,10.8,743,3598,6286,Healthy,No action,Grocery,4
+HOM-1005,Table lamp,BX,505,56.1,9.0,81,471,587,Healthy,No action,Home,7
+APP-1016,Sneakers,BY,523,49.5,10.6,46,129,434,Healthy,No action,Apparel,2
+BEA-1052,Lip balm 3pk,BY,705,58.7,12.0,114,329,647,Healthy,No action,Beauty,4
+GRO-1035,Pasta sauce,BX,896,344.2,2.6,301,3451,4139,Stockout now,"Expedite 6,694 units, transfer from nearby DCs",Grocery,9
+BEA-1053,Sunscreen SPF50,BX,118,50.5,2.3,18,108,598,Healthy,No action,Beauty,2
+APP-1018,Winter coat,BY,206,35.1,5.9,32,147,375,Healthy,No action,Apparel,4
+TOY-1042,Board game,BZ,944,39.2,24.1,79,428,414,Excess,"Mark down 20%, pause orders, move to outlet stores",Toys,7
+TOY-1040,Building bricks set,BZ,354,32.1,11.0,110,370,349,Healthy,No action,Toys,7
+HOM-1009,Patio chair,BY,983,54.5,18.1,113,578,568,Healthy,No action,Home,9
+TOY-1049,Ride-on scooter,BZ,828,75.3,11.0,178,614,873,Healthy,No action,Toys,5
+GRO-1037,Granola,BX,2127,134.8,15.8,91,1191,1592,Healthy,No action,Grocery,8
+HOM-1007,Bedding set,BY,231,25.7,9.0,52,204,342,Healthy,No action,Home,6
+ELE-1029,TV wall mount,BY,203,9.4,21.5,12,110,117,Excess,"Mark down 20%, pause orders, move to outlet stores",Electronics,9
+HOM-1002,Ceramic vase,BY,98,9.8,10.0,20,60,152,Healthy,No action,Home,3
+APP-1010,Women's denim,BY,81,13.1,6.2,13,124,191,Reorder,Order 235 units now,Apparel,9
+ELE-1023,HDMI cable,BY,227,9.9,22.9,17,81,129,Excess,"Mark down 20%, pause orders, move to outlet stores",Electronics,5
+ELE-1028,Webcam,CY,1493,36.2,41.2,61,418,518,Excess,"Mark down 40%, pause orders, move to outlet stores",Electronics,9
+HOM-1000,Throw pillow,CX,86,11.7,7.3,6,110,157,Healthy,No action,Home,9
+GRO-1036,Olive oil,CX,7386,196.1,37.7,170,607,2946,Excess,"Mark down 30%, pause orders, move to outlet stores",Grocery,2
+GRO-1038,Frozen pizza,CX,2754,85.8,32.1,137,636,1127,Excess,"Mark down 30%, pause orders, move to outlet stores",Grocery,6
+APP-1015,Swim shorts,CY,125,20.1,6.2,13,46,337,Healthy,No action,Apparel,2
+TOY-1043,RC car,CZ,33,12.3,2.7,12,109,198,Stockout now,"Expedite 274 units, transfer from nearby DCs",Toys,7
+BEA-1059,Razor kit,CY,254,12.5,20.3,28,146,199,Excess,"Mark down 20%, pause orders, move to outlet stores",Beauty,10
+APP-1013,Leggings,CY,57,13.4,4.3,13,79,227,Reorder,Order 249 units now,Apparel,6
+BEA-1054,Face mask 5pk,CX,270,14.4,18.8,16,106,261,Healthy,No action,Beauty,7
+ELE-1024,Tablet case,CY,84,4.1,20.7,6,25,84,Excess,"Mark down 20%, pause orders, move to outlet stores",Electronics,4
+HOM-1003,Wall mirror,CY,79,6.2,12.7,7,24,134,Healthy,No action,Home,3
+BEA-1058,Perfume,CY,125,8.2,15.2,15,29,229,Healthy,No action,Beauty,2
+BEA-1057,Hair dryer,CY,72,7.2,10.0,4,34,152,Healthy,No action,Beauty,5
